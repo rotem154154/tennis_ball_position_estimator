@@ -1,4 +1,4 @@
-# tennis_ball_position_estimator
+# tennis ball position estimator
 
 #### trying to geuss the position of the ball in several frames after hit from 4 frames as input.
 
