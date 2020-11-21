@@ -14,7 +14,7 @@ this is example of game:
 
 
 
-In this example the green balls are the truth and the model output in blue
+In this example the green balls are the truth and the model output in blue:
 
 ![model prediction](https://github.com/rotem154154/tennis_ball_position_estimator/blob/main/tennis_plot.jpg?raw=true)
 
